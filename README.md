@@ -14,12 +14,12 @@ Unzip, run locally, then push each folder as its own GitHub repo (recommended).
 
 ## **Secure Mission Tasking Portal (DoD-Style, Sanitized)**
 
-**Short Description (GitHub subtitle):**
+**Short Description:**
 A role-based, auditable mission tasking API demonstrating secure enterprise patterns used in defense environments.
 
-**Full Repository Summary (README or About section):**
+**Full Project Summary:**
 
-> This repository is a **sanitized portfolio replica** of a mission tasking and workflow system similar to those used in U.S. Department of Defense cyber and operations environments.
+> This Project is a **sanitized portfolio replica** of a mission tasking and workflow system similar to those used in U.S. Department of Defense cyber and operations environments.
 >
 > It demonstrates how senior software engineers design **secure, accountable, and role-controlled platforms** where every action must be authenticated, authorized, and auditable.
 >
@@ -41,12 +41,12 @@ A role-based, auditable mission tasking API demonstrating secure enterprise patt
 
 ## **Secure Sensor Data Gateway (DoD-Style, Sanitized)**
 
-**Short Description (GitHub subtitle):**
+**Short Description**
 A cryptographically secured ingestion API for high-integrity data pipelines with replay protection and quarantine lanes.
 
-**Full Repository Summary (README or About section):**
+**Full Project Summary:**
 
-> This repository is a **public-safe analog** of ingestion and gateway services used in defense and intelligence systems to receive high-value data from distributed sources.
+> This Project is a **public-safe analog** of ingestion and gateway services used in defense and intelligence systems to receive high-value data from distributed sources.
 >
 > In classified environments, these systems are responsible for ensuring **data authenticity, integrity, and accountability** before any information is allowed into protected networks.
 >
